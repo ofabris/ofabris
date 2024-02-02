@@ -7,10 +7,24 @@
   <li>📫 Como entrar em contato comigo: gflucas23@gmail.com</li>
 </ul>
 
-<div style="display: flex; justify-content: space-between;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ofabris&layout=compact&langs_count=7&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofabris&layout=compact&langs_count=7&theme=radical" alt="metrica"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ofabris&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofabris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Minhas%20Skills- 😎 -blue"><br>
