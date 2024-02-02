@@ -19,7 +19,7 @@
   alt="Github Stats"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="justify-content: space-between;">
   <img src="https://img.shields.io/badge/Minhas%20Skills- 😎 -blue"><br>
   <img align="center" alt="fabris-csharp" height="30" width="40" src="./elements/csharp-logo.svg"/>
   <img align="center" alt="fabris-javascript" height="30" width="40" src="./elements/javascript-logo.svg"/>
