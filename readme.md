@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Overview-Lucas%20Fabris-blue">
 
 <ul>
-  <li>🔭 Atualmente estou trabalhando como desenvolvedor PL/SQL na Reply.</li>
+  <li>🔭 Atualmente estou trabalhando como desenvolvedor Pleno PL/SQL na Reply.</li>
   <li>📫 Entre em contato comigo: gflucas23@gmail.com</li>
 </ul>
 
