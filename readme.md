@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ofabris/ofabris/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/ofabris/ofabris/output/snake.svg)
 
 ###
